@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nels28
+- 👋 Hi, I’m Nel
 - 👀 I’m interested in Linux and coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on whatever
 - 📫 ...
 
