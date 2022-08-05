@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nel
 - 👀 I 💙 Linux and Data
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on whatever
 - 📫 ...
 
