@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nel
-- 👀 I 💙 Linux and Data
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on whatever
-- 📫 ...
+- 👀 I 💙 Linux 
+- Nature and good reads 🌱
+- 💞️ I’m looking to collaborate on whatever\
+- Learning new things is my hobby 
 
 <!---
 Nels28/Nels28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
